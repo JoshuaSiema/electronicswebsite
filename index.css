@@ -1,0 +1,11 @@
+h4{
+    font-size: 500px;
+}
+body{
+    background-color: blueviolet;
+    color: yellow;
+    background-image: url("image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

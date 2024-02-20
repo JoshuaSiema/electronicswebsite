@@ -1,0 +1,19 @@
+body{
+    background-image: url(image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+img{
+   /* border: 20px solid red;*/
+   border-width: 20px;
+   border-color: rgb(10,50,120);
+   border-style:dashed;
+   width: 300px;
+   height: 300px;
+   border-radius: 1000px;
+   clip-path: circle();
+}
+p{
+    color: #db4949;
+}
